@@ -1,0 +1,13 @@
+2024-04-18 04:22:28,112 INFO s.LoginPageStep [main] Application Lauched
+2024-04-18 04:22:28,251 INFO s.LoginPageStep [main] App Maximized
+2024-04-18 04:22:28,255 INFO s.LoginPageStep [main] Implicity wait completed
+2024-04-18 04:24:52,073 INFO u.UtilFrequentlyUsedMethod [main] browser   Option Read from Properties File
+2024-04-18 04:24:54,758 INFO s.LoginPageStep [main] Application Lauched
+2024-04-18 04:24:54,927 INFO s.LoginPageStep [main] App Maximized
+2024-04-18 04:24:54,932 INFO s.LoginPageStep [main] Implicity wait completed
+2024-04-18 04:27:09,772 INFO u.UtilFrequentlyUsedMethod [main] browser   Option Read from Properties File
+2024-04-18 04:27:12,503 INFO s.LoginPageStep [main] Application Lauched
+2024-04-18 04:27:12,675 INFO s.LoginPageStep [main] App Maximized
+2024-04-18 04:27:12,686 INFO s.LoginPageStep [main] Implicity wait completed
+2024-04-18 04:30:31,014 INFO u.UtilFrequentlyUsedMethod [main] browser   Option Read from Properties File
+2024-04-18 04:30:33,771 INFO s.LoginPageStep [main] Application Lauched

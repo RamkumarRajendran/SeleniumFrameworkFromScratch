@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Properties"/>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/test-classes" path="src/test/resources">
+		<attributes>
+			<attribute name="test" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-api-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-api-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-chrome-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-chrome-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-chromium-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-chromium-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-devtools-v85-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-devtools-v85-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-devtools-v117-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-devtools-v117-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-devtools-v118-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-devtools-v118-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-devtools-v119-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-devtools-v119-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-edge-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-edge-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-firefox-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-firefox-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-http-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-http-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-ie-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-ie-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-java-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-java-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-json-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-json-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-manager-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-manager-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-os-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-os-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-remote-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-remote-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-safari-driver-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-safari-driver-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-support-4.15.0.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/Selenium15.4Jar_WebDriverManager/selenium-support-4.15.0-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-api-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-api-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-chrome-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-chrome-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-chromium-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-chromium-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-devtools-v85-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-devtools-v85-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-devtools-v121-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-devtools-v121-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-devtools-v122-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-devtools-v122-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-devtools-v123-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-devtools-v123-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-edge-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-edge-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-firefox-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-firefox-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-http-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-http-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-ie-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-ie-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-java-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-java-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-json-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-json-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-manager-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-manager-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-os-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-os-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-remote-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-remote-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-safari-driver-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-safari-driver-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-support-4.19.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/Selenium/SeleniumJar/selenium-support-4.19.1-sources.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/log4j-api-2.23.1.jar"/>
+	<classpathentry kind="lib" path="D:/Ramkumar/log4j-core-2.23.1.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

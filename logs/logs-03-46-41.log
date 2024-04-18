@@ -1,0 +1,14 @@
+2024-04-18 03:33:20,973 INFO s.BaseClassStep [main] Application Lauched
+2024-04-18 03:33:21,262 INFO s.BaseClassStep [main] App Maximized
+2024-04-18 03:33:21,274 INFO s.BaseClassStep [main] Implicity wait completed
+2024-04-18 03:40:10,004 INFO s.BaseClassStep [main] browser   Data Read from Properties File
+2024-04-18 03:40:15,412 INFO s.BaseClassStep [main] Application Lauched
+2024-04-18 03:40:15,737 INFO s.BaseClassStep [main] App Maximized
+2024-04-18 03:40:15,746 INFO s.BaseClassStep [main] Implicity wait completed
+2024-04-18 03:41:13,854 INFO s.BaseClassStep [main] browser   Data Read from Properties File
+2024-04-18 03:41:19,052 INFO s.BaseClassStep [main] Application Lauched
+2024-04-18 03:41:19,219 INFO s.BaseClassStep [main] App Maximized
+2024-04-18 03:41:19,229 INFO s.BaseClassStep [main] Implicity wait completed
+2024-04-18 03:46:31,544 INFO s.BaseClassStep [main] browser   Data Read from Properties File
+2024-04-18 03:46:40,772 INFO s.BaseClassStep [main] Application Lauched
+2024-04-18 03:46:41,408 INFO s.BaseClassStep [main] App Maximized

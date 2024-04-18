@@ -1,0 +1,14 @@
+2024-04-18 02:15:45,371 INFO s.LoginPageStep [main] Application Lauched
+2024-04-18 02:15:45,526 INFO s.LoginPageStep [main] App Maximized
+2024-04-18 02:15:45,530 INFO s.LoginPageStep [main] Implicity wait completed
+2024-04-18 02:18:19,281 INFO s.LoginPageStep [main] Application Lauched
+2024-04-18 02:18:19,410 INFO s.LoginPageStep [main] App Maximized
+2024-04-18 02:18:19,413 INFO s.LoginPageStep [main] Implicity wait completed
+2024-04-18 02:48:14,693 INFO s.BaseClassStep [main] browser   Data Read from Properties File
+2024-04-18 02:48:17,191 INFO s.LoginPageStep [main] Application Lauched
+2024-04-18 02:48:17,308 INFO s.LoginPageStep [main] App Maximized
+2024-04-18 02:48:17,312 INFO s.LoginPageStep [main] Implicity wait completed
+2024-04-18 02:50:50,179 INFO s.BaseClassStep [main] Chrome Exe file identified
+2024-04-18 02:50:51,683 INFO s.BaseClassStep [main] Driver instance Created
+2024-04-18 02:50:52,722 INFO s.BaseClassStep [main] Application Lauched
+2024-04-18 02:50:52,841 INFO s.BaseClassStep [main] App Maximized

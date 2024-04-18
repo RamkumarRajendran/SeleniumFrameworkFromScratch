@@ -1,0 +1,12 @@
+2024-04-18 07:17:26,860 INFO s.BaseClassStep [main] Chrome Browser Launched
+2024-04-18 07:19:41,384 INFO s.BaseClassStep [main] Chrome Browser Launched
+2024-04-18 07:23:36,479 INFO s.BaseClassStep [main] Chrome Browser Launched
+2024-04-18 07:27:28,134 INFO s.BaseClassStep [main] Chrome Browser Launched
+2024-04-18 07:54:05,557 INFO s.BaseClassStep [main] Chrome Browser Launched
+2024-04-18 07:54:05,593 INFO s.BaseClassStep [main] Application Lauched
+2024-04-18 07:54:06,847 INFO s.BaseClassStep [main] https://www.facebook.com/login/ App URL Launche
+2024-04-18 07:54:06,995 INFO s.BaseClassStep [main] App Maximized
+2024-04-18 07:55:43,133 INFO s.BaseClassStep [main] Chrome Browser Launched
+2024-04-18 07:55:43,147 INFO s.BaseClassStep [main] Application Lauched
+2024-04-18 07:55:44,336 INFO s.BaseClassStep [main]  App URL : https://www.facebook.com/login/
+2024-04-18 07:55:44,473 INFO s.BaseClassStep [main] App Maximized

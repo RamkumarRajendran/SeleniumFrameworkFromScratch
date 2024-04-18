@@ -1,0 +1,12 @@
+2024-04-18 04:00:58,549 INFO s.BaseClassStep [main] path   Option Read from Properties File
+2024-04-18 04:00:58,555 INFO s.BaseClassStep [main] path   Option Read from Properties File
+2024-04-18 04:01:07,483 INFO s.BaseClassStep [main] Application Lauched
+2024-04-18 04:01:08,214 INFO s.BaseClassStep [main] App Maximized
+2024-04-18 04:01:08,226 INFO s.BaseClassStep [main] Implicity wait completed
+2024-04-18 04:05:52,615 INFO u.UtilFrequentlyUsedMethod [main] browser   Option Read from Properties File
+2024-04-18 04:05:52,619 INFO u.UtilFrequentlyUsedMethod [main] path   Option Read from Properties File
+2024-04-18 04:05:52,619 INFO u.UtilFrequentlyUsedMethod [main] path   Option Read from Properties File
+2024-04-18 04:05:55,456 INFO s.LoginPageStep [main] Application Lauched
+2024-04-18 04:05:55,593 INFO s.LoginPageStep [main] App Maximized
+2024-04-18 04:05:55,598 INFO s.LoginPageStep [main] Implicity wait completed
+2024-04-18 04:22:25,444 INFO u.UtilFrequentlyUsedMethod [main] browser   Option Read from Properties File
